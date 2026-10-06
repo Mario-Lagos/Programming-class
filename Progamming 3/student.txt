@@ -1,0 +1,5 @@
+(80679 | Mario, Course: Programming)
+(Mario Lagos | 80679, Course: 4)
+(80679 | Mario Lagos, Course: programming)
+(80696 | Danilo, Course: programming)
+(80765 | Victor, Course: Programming)
